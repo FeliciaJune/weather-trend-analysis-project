@@ -1,7 +1,6 @@
 # Weather Trend Analysis – East Kotawaringin (2010–2024)
 
-This project analyzes **weather trends in East Kotawaringin Regency, Central Kalimantan, Indonesia**, over the period **2010–2024**.  
-The data was collected from **BMKG (Meteorology, Climatology, and Geophysics Agency of Indonesia)** in monthly format, merged into a complete dataset, preprocessed, and analyzed using **Python on Google Colab**.  
+This project analyzes **weather trends in East Kotawaringin Regency, Central Kalimantan, Indonesia**, over the period **2010–2024**. The data was collected from **BMKG (Meteorology, Climatology, and Geophysics Agency of Indonesia)** in monthly format, merged into a complete dataset, preprocessed, and analyzed using **Python on Google Colab**.  
 
 The study aims to identify long-term patterns in **temperature, rainfall, humidity, and wind dynamics**, and to observe seasonal variations and potential climate change impacts on the region.  
 
